@@ -1,0 +1,40 @@
+// ================================================================
+// PREGUNTAS: NIVEL3_GROUPBY_RANKING
+// ================================================================
+// Total de preguntas en este archivo: 4
+// Formato: GIFT con puntuación específica
+// Correcta: 100%, Incorrecta: -50%, NA: 0%
+// ================================================================
+
+::train_most_packages
+:: Which train transported the most packages? {
+~%100%UDAXI
+~%-50%VXRCS
+~%-50%HHEXD
+~%0%NA
+}
+
+::train_least_packages
+:: Which train transported the least packages? {
+~%100%HHEXD
+~%-50%VXRCS
+~%-50%UDAXI
+~%0%NA
+}
+
+::train_most_trips
+:: Which train made more trips? {
+~%100%HHEXD
+~%-50%VXRCS
+~%-50%UDAXI
+~%0%NA
+}
+
+::most_frequent_cargo
+:: Which cargo type was transported the most? {
+~%100%Chemicals
+~%-50%Textiles
+~%-50%Electronics
+~%0%NA
+}
+

@@ -1,0 +1,80 @@
+// ================================================================
+// PREGUNTAS: NIVEL5_COMPLEX_CALCULATIONS
+// ================================================================
+// Total de preguntas en este archivo: 9
+// Formato: GIFT con puntuación específica
+// Correcta: 100%, Incorrecta: -50%, NA: 0%
+// ================================================================
+
+::best_fuel_efficiency
+:: Which train has the best fuel efficiency (lowest average consumption)? {
+~%100%UDAXI
+~%-50%VXRCS
+~%-50%HHEXD
+~%0%NA
+}
+
+::worst_fuel_efficiency
+:: Which train has the worst fuel efficiency (maximum average consumption)? {
+~%100%VXRCS
+~%-50%UDAXI
+~%-50%HHEXD
+~%0%NA
+}
+
+::avg_trip_consumption_textiles
+:: What is the average fuel consumption in the whole trip for Textiles? {
+~%100%107.1
+~%-50%227.1
+~%-50%11.099999999999994
+~%0%NA
+}
+
+::avg_trip_consumption_electronics
+:: What is the average fuel consumption in the whole trip for Electronics? {
+~%100%169.7
+~%-50%289.7
+~%-50%73.69999999999999
+~%0%NA
+}
+
+::avg_trip_consumption_machinery
+:: What is the average fuel consumption in the whole trip for Machinery? {
+~%100%280.6
+~%-50%400.6
+~%-50%184.60000000000002
+~%0%NA
+}
+
+::avg_trip_consumption_chemicals
+:: What is the average fuel consumption in the whole trip for Chemicals? {
+~%100%179.5
+~%-50%299.5
+~%-50%83.5
+~%0%NA
+}
+
+::avg_trip_consumption_food
+:: What is the average fuel consumption in the whole trip for Food? {
+~%100%181.7
+~%-50%301.7
+~%-50%85.69999999999999
+~%0%NA
+}
+
+::shortest_trip_duration
+:: How long lasted the shortest trip? {
+~%100%372 minutes
+~%-50%402 minutes
+~%-50%432 minutes
+~%0%NA
+}
+
+::longest_trip_duration
+:: How long lasted the longest trip? {
+~%100%1057 minutes
+~%-50%937 minutes
+~%-50%997 minutes
+~%0%NA
+}
+

@@ -1,0 +1,120 @@
+// ================================================================
+// PREGUNTAS: NIVEL4_DATETIME_STATISTICAL
+// ================================================================
+// Total de preguntas en este archivo: 14
+// Formato: GIFT con puntuación específica
+// Correcta: 100%, Incorrecta: -50%, NA: 0%
+// ================================================================
+
+::trips_june
+:: How many trips were made in June? {
+~%100%59
+~%-50%109
+~%-50%34
+~%0%NA
+}
+
+::trips_july
+:: How many trips were made in July? {
+~%100%61
+~%-50%111
+~%-50%36
+~%0%NA
+}
+
+::trips_august
+:: How many trips were made in August? {
+~%100%60
+~%-50%110
+~%-50%35
+~%0%NA
+}
+
+::trips_september
+:: How many trips were made in September? {
+~%100%57
+~%-50%107
+~%-50%32
+~%0%NA
+}
+
+::trips_october
+:: How many trips were made in October? {
+~%100%33
+~%-50%83
+~%-50%8
+~%0%NA
+}
+
+::trips_november
+:: How many trips were made in November? {
+~%100%31
+~%-50%81
+~%-50%6
+~%0%NA
+}
+
+::trips_december
+:: How many trips were made in December? {
+~%100%32
+~%-50%82
+~%-50%7
+~%0%NA
+}
+
+::packages_monday
+:: How many packages were transported on Mondays? {
+~%100%24441
+~%-50%24641
+~%-50%24341
+~%0%NA
+}
+
+::packages_tuesday
+:: How many packages were transported on Tuesdays? {
+~%100%22900
+~%-50%23100
+~%-50%22800
+~%0%NA
+}
+
+::packages_wednesday
+:: How many packages were transported on Wednesdays? {
+~%100%21158
+~%-50%21358
+~%-50%21058
+~%0%NA
+}
+
+::packages_thursday
+:: How many packages were transported on Thursdays? {
+~%100%22419
+~%-50%22619
+~%-50%22319
+~%0%NA
+}
+
+::packages_friday
+:: How many packages were transported on Fridays? {
+~%100%22459
+~%-50%22659
+~%-50%22359
+~%0%NA
+}
+
+::packages_saturday
+:: How many packages were transported on Saturdays? {
+~%100%6957
+~%-50%7157
+~%-50%6857
+~%0%NA
+}
+
+::packages_sunday
+:: How many packages were transported on Sundays? {
+~%100%52
+~%-50%252
+~%-50%-48
+~%0%NA
+}
+

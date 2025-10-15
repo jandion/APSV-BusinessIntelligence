@@ -1,0 +1,39 @@
+RESUMEN COMPLETO - TODAS LAS VARIACIONES DE PREGUNTAS MOODLE
+======================================================================
+
+🎯 OBJETIVO: Generar TODAS las variaciones posibles de cada pregunta
+
+📊 ESTADÍSTICAS:
+   • Total de archivos generados: 7
+   • Total de preguntas: 66
+   • Trenes en dataset: VXRCS, UDAXI, HHEXD
+   • Tipos de carga: Textiles, Electronics, Machinery, Chemicals, Food
+   • Estaciones: A, B, C, D, E, F, G
+
+📁 ARCHIVOS CREADOS:
+    1. preguntas_moodle/nivel0_dataset_overview_questions.txt
+    2. preguntas_moodle/nivel1_basic_counts_questions.txt
+    3. preguntas_moodle/nivel2_filtering_aggregation_questions.txt
+    4. preguntas_moodle/nivel3_groupby_ranking_questions.txt
+    5. preguntas_moodle/nivel4_datetime_statistical_questions.txt
+    6. preguntas_moodle/nivel5_complex_calculations_questions.txt
+    7. preguntas_moodle/nivel6_multidimensional_questions.txt
+
+📋 VARIACIONES INCLUIDAS:
+   • Preguntas por CADA tren: 3 variaciones
+   • Preguntas por CADA tipo de carga: 5 variaciones
+   • Preguntas por CADA estación: 7 variaciones (A-G)
+   • Preguntas por CADA mes: 12 variaciones
+   • Preguntas por CADA día de la semana: 7 variaciones
+
+🎯 FORMATO DE PREGUNTAS:
+   • Respuesta correcta: +100% puntos
+   • Respuesta incorrecta: -50% puntos
+   • Respuesta NA: 0% puntos
+
+📥 INSTRUCCIONES DE IMPORTACIÓN:
+   1. Importar cada archivo por separado en Moodle
+   2. Formato: GIFT
+   3. Las puntuaciones están preconfiguradas
+   4. Se puede mezclar preguntas de diferentes niveles
+

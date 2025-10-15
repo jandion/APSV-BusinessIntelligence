@@ -1,0 +1,24 @@
+// ================================================================
+// PREGUNTAS: NIVEL0_DATASET_OVERVIEW
+// ================================================================
+// Total de preguntas en este archivo: 2
+// Formato: GIFT con puntuación específica
+// Correcta: 100%, Incorrecta: -50%, NA: 0%
+// ================================================================
+
+::total_records
+:: How many records are there in the dataset? {
+~%100%9600
+~%-50%9700
+~%-50%9550
+~%0%NA
+}
+
+::total_columns
+:: How many columns are there in the dataset? {
+~%100%8
+~%-50%10
+~%-50%7
+~%0%NA
+}
+

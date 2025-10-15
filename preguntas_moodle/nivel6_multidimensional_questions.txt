@@ -1,0 +1,128 @@
+// ================================================================
+// PREGUNTAS: NIVEL6_MULTIDIMENSIONAL
+// ================================================================
+// Total de preguntas en este archivo: 15
+// Formato: GIFT con puntuación específica
+// Correcta: 100%, Incorrecta: -50%, NA: 0%
+// ================================================================
+
+::packages_june_VXRCS
+:: How many packages did train VXRCS transport in June? {
+~%100%615
+~%-50%715
+~%-50%565
+~%0%NA
+}
+
+::packages_june_UDAXI
+:: How many packages did train UDAXI transport in June? {
+~%100%1057
+~%-50%1157
+~%-50%1007
+~%0%NA
+}
+
+::packages_july_VXRCS
+:: How many packages did train VXRCS transport in July? {
+~%100%853
+~%-50%953
+~%-50%803
+~%0%NA
+}
+
+::packages_july_UDAXI
+:: How many packages did train UDAXI transport in July? {
+~%100%1207
+~%-50%1307
+~%-50%1157
+~%0%NA
+}
+
+::packages_august_VXRCS
+:: How many packages did train VXRCS transport in August? {
+~%100%678
+~%-50%778
+~%-50%628
+~%0%NA
+}
+
+::packages_august_UDAXI
+:: How many packages did train UDAXI transport in August? {
+~%100%1088
+~%-50%1188
+~%-50%1038
+~%0%NA
+}
+
+::packages_monday_station_A
+:: How many packages were loaded on Mondays at station A? {
+~%100%4273
+~%-50%4348
+~%-50%4243
+~%0%NA
+}
+
+::packages_monday_station_B
+:: How many packages were loaded on Mondays at station B? {
+~%100%0
+~%-50%75
+~%-50%-30
+~%0%NA
+}
+
+::packages_monday_station_C
+:: How many packages were loaded on Mondays at station C? {
+~%100%0
+~%-50%75
+~%-50%-30
+~%0%NA
+}
+
+::packages_tuesday_station_A
+:: How many packages were loaded on Tuesdays at station A? {
+~%100%3912
+~%-50%3987
+~%-50%3882
+~%0%NA
+}
+
+::packages_tuesday_station_B
+:: How many packages were loaded on Tuesdays at station B? {
+~%100%0
+~%-50%75
+~%-50%-30
+~%0%NA
+}
+
+::packages_tuesday_station_C
+:: How many packages were loaded on Tuesdays at station C? {
+~%100%0
+~%-50%75
+~%-50%-30
+~%0%NA
+}
+
+::packages_wednesday_station_A
+:: How many packages were loaded on Wednesdays at station A? {
+~%100%3721
+~%-50%3796
+~%-50%3691
+~%0%NA
+}
+
+::packages_wednesday_station_B
+:: How many packages were loaded on Wednesdays at station B? {
+~%100%0
+~%-50%75
+~%-50%-30
+~%0%NA
+}
+
+::packages_wednesday_station_C
+:: How many packages were loaded on Wednesdays at station C? {
+~%100%0
+~%-50%75
+~%-50%-30
+~%0%NA
+}
+

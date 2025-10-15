@@ -1,0 +1,40 @@
+// ================================================================
+// PREGUNTAS: NIVEL1_BASIC_COUNTS
+// ================================================================
+// Total de preguntas en este archivo: 4
+// Formato: GIFT con puntuación específica
+// Correcta: 100%, Incorrecta: -50%, NA: 0%
+// ================================================================
+
+::total_trains
+:: How many trains are there in the dataset? {
+~%100%3
+~%-50%4
+~%-50%5
+~%0%NA
+}
+
+::total_stations
+:: How many stations are there in the dataset? {
+~%100%7
+~%-50%9
+~%-50%6
+~%0%NA
+}
+
+::total_trips
+:: How many trips are there in the dataset? {
+~%100%480
+~%-50%580
+~%-50%430
+~%0%NA
+}
+
+::total_packages
+:: How many packages were transported in total? {
+~%100%20475
+~%-50%21475
+~%-50%19975
+~%0%NA
+}
+

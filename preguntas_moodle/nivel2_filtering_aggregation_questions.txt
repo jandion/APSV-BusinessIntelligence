@@ -1,0 +1,152 @@
+// ================================================================
+// PREGUNTAS: NIVEL2_FILTERING_AGGREGATION
+// ================================================================
+// Total de preguntas en este archivo: 18
+// Formato: GIFT con puntuación específica
+// Correcta: 100%, Incorrecta: -50%, NA: 0%
+// ================================================================
+
+::packages_train_VXRCS
+:: How many packages did train VXRCS transport? {
+~%100%5695
+~%-50%6195
+~%-50%5395
+~%0%NA
+}
+
+::packages_train_UDAXI
+:: How many packages did train UDAXI transport? {
+~%100%9168
+~%-50%9668
+~%-50%8868
+~%0%NA
+}
+
+::packages_train_HHEXD
+:: How many packages did train HHEXD transport? {
+~%100%5612
+~%-50%6112
+~%-50%5312
+~%0%NA
+}
+
+::packages_cargo_textiles
+:: How many packages of Textiles were transported? {
+~%100%4405
+~%-50%4805
+~%-50%4205
+~%0%NA
+}
+
+::packages_cargo_electronics
+:: How many packages of Electronics were transported? {
+~%100%3426
+~%-50%3826
+~%-50%3226
+~%0%NA
+}
+
+::packages_cargo_machinery
+:: How many packages of Machinery were transported? {
+~%100%3863
+~%-50%4263
+~%-50%3663
+~%0%NA
+}
+
+::packages_cargo_chemicals
+:: How many packages of Chemicals were transported? {
+~%100%4490
+~%-50%4890
+~%-50%4290
+~%0%NA
+}
+
+::packages_cargo_food
+:: How many packages of Food were transported? {
+~%100%4291
+~%-50%4691
+~%-50%4091
+~%0%NA
+}
+
+::packages_station_A
+:: How many packages were loaded at station A? {
+~%100%0
+~%-50%300
+~%-50%-150
+~%0%NA
+}
+
+::packages_station_B
+:: How many packages were loaded at station B? {
+~%100%0
+~%-50%300
+~%-50%-150
+~%0%NA
+}
+
+::packages_station_C
+:: How many packages were loaded at station C? {
+~%100%0
+~%-50%300
+~%-50%-150
+~%0%NA
+}
+
+::packages_station_D
+:: How many packages were loaded at station D? {
+~%100%0
+~%-50%300
+~%-50%-150
+~%0%NA
+}
+
+::packages_station_E
+:: How many packages were loaded at station E? {
+~%100%0
+~%-50%300
+~%-50%-150
+~%0%NA
+}
+
+::packages_station_F
+:: How many packages were loaded at station F? {
+~%100%0
+~%-50%300
+~%-50%-150
+~%0%NA
+}
+
+::packages_station_G
+:: How many packages were loaded at station G? {
+~%100%0
+~%-50%300
+~%-50%-150
+~%0%NA
+}
+
+::max_cargo_VXRCS
+:: What is the maximum cargo carried by train VXRCS? {
+~%100%50
+~%-50%70
+~%-50%40
+~%0%NA
+}
+
+::max_cargo_UDAXI
+:: What is the maximum cargo carried by train UDAXI? {
+~%100%100
+~%-50%120
+~%-50%90
+~%0%NA
+}
+
+::max_cargo_HHEXD
+:: What is the maximum cargo carried by train HHEXD? {
+~%100%50
+~%-50%70
+~%-50%40
+~%0%NA
+}
+
